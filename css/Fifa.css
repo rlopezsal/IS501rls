@@ -1,0 +1,122 @@
+body{
+background-color: rgb(119, 149, 119)
+
+}
+
+
+nav{
+    background-color: rgb(226, 209, 113);
+    color: black;
+    border: 2px solid gold;
+    font-family: 'Encode Sans', sans-serif;
+    
+}
+
+
+header{
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+    margin-bottom: 9px;
+
+
+}
+
+
+.navbar{
+    display: flex;
+    list-style: none;
+}
+
+.navbar li {
+    padding:5px;
+    flex-grow: 3;
+    text-align: center;
+}
+
+
+
+.headerimg{
+    display: block;
+    margin:auto;
+    
+
+    
+
+ 
+}
+
+.mylink {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+.fwvideo{
+    display: block; 
+    height: 300px;
+    width: 500px;
+    padding: 10px;
+    margin:auto; 
+   
+   
+
+}
+
+
+
+.basicinfo{
+    color: rgb(81, 46, 46);
+   
+   
+
+
+}
+
+
+.favfacts{
+    color: rgb(35, 1, 66);
+
+
+
+}
+
+
+
+.Ranking{
+    color: rgb(5, 65, 5);
+
+
+}
+
+.Ranking ul li {
+    list-style: square;
+
+}
+
+.footer{
+    /* bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 12px; 
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+    border: 2px solid gold; */
+    grid-row: 5;
+    grid-column: 1 / 4;
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    border: 2px solid gold; 
+    font-family: 'Zen Dots', cursive;
+}
+
+
+h3{
+
+    font-family: 'Zen Dots', cursive;
+
+}
+
