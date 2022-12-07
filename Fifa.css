@@ -40,8 +40,6 @@ header{
     margin:auto;
     
 
-    
-
  
 }
 
@@ -63,6 +61,15 @@ header{
 
 }
 
+.tableauPlaceholder{
+    display: block; 
+    /* height: 300px;
+    width: 500px; */
+    padding: 10px;
+    margin:auto; 
+
+
+}
 
 
 .basicinfo{
